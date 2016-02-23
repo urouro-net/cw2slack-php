@@ -1,0 +1,15 @@
+{
+  "name": "urouro/cw2slack",
+  "authors": [
+    {
+      "name": "kenta.nakai",
+      "email": "kenta.nakai@urouro.net"
+    }
+  ],
+  "require": {
+    "polidog/php-chatwork-api": "0.2.*@dev",
+    "cakephp/utility": "3.0.0-beta3",
+    "maknz/slack": "^1.7",
+    "vlucas/phpdotenv": "^2.2"
+  }
+}
